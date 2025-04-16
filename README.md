@@ -1,6 +1,8 @@
-# DetailsTab
-details tab css/js
+# DetailsTab css/js
 
+Use the HTML **details** tag and its **open** state.
+
+### Demo https://da0ab.github.io/DetailsTab/
 
 **class="details-tabs phone-close"**
 
