@@ -2,7 +2,12 @@
 
 Use the HTML **details** tag and its **open** state.
 
+Be cautious with the property **display: contents;** as it may not work in newer browsers.
+
 ### Demo https://da0ab.github.io/DetailsTab/
+
+
+
 
 **class="details-tabs phone-close"**
 
